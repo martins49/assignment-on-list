@@ -1,0 +1,16 @@
+C:\Users\DELL 15\source\repos\assignment.on.list\assignment.on.list\bin\Debug\net5.0\assignment.on.list.exe
+C:\Users\DELL 15\source\repos\assignment.on.list\assignment.on.list\bin\Debug\net5.0\assignment.on.list.deps.json
+C:\Users\DELL 15\source\repos\assignment.on.list\assignment.on.list\bin\Debug\net5.0\assignment.on.list.runtimeconfig.json
+C:\Users\DELL 15\source\repos\assignment.on.list\assignment.on.list\bin\Debug\net5.0\assignment.on.list.runtimeconfig.dev.json
+C:\Users\DELL 15\source\repos\assignment.on.list\assignment.on.list\bin\Debug\net5.0\assignment.on.list.dll
+C:\Users\DELL 15\source\repos\assignment.on.list\assignment.on.list\bin\Debug\net5.0\ref\assignment.on.list.dll
+C:\Users\DELL 15\source\repos\assignment.on.list\assignment.on.list\bin\Debug\net5.0\assignment.on.list.pdb
+C:\Users\DELL 15\source\repos\assignment.on.list\assignment.on.list\obj\Debug\net5.0\assignment.on.list.csprojAssemblyReference.cache
+C:\Users\DELL 15\source\repos\assignment.on.list\assignment.on.list\obj\Debug\net5.0\assignment.on.list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 15\source\repos\assignment.on.list\assignment.on.list\obj\Debug\net5.0\assignment.on.list.AssemblyInfoInputs.cache
+C:\Users\DELL 15\source\repos\assignment.on.list\assignment.on.list\obj\Debug\net5.0\assignment.on.list.AssemblyInfo.cs
+C:\Users\DELL 15\source\repos\assignment.on.list\assignment.on.list\obj\Debug\net5.0\assignment.on.list.csproj.CoreCompileInputs.cache
+C:\Users\DELL 15\source\repos\assignment.on.list\assignment.on.list\obj\Debug\net5.0\assignment.on.list.dll
+C:\Users\DELL 15\source\repos\assignment.on.list\assignment.on.list\obj\Debug\net5.0\ref\assignment.on.list.dll
+C:\Users\DELL 15\source\repos\assignment.on.list\assignment.on.list\obj\Debug\net5.0\assignment.on.list.pdb
+C:\Users\DELL 15\source\repos\assignment.on.list\assignment.on.list\obj\Debug\net5.0\assignment.on.list.genruntimeconfig.cache
